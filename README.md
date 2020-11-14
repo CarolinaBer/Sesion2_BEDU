@@ -8,4 +8,7 @@
 ![imagen](imagenes/Reto1.4.png)
 ![imagen](imagenes/Reto1.5.png)
 ## :pushpin: Reto 2. Funciones de agrupamiento.
+![imagen](imagenes/Reto2.1.png)
+![imagen](imagenes/Reto2.2.png)
+![imagen](imagenes/Reto2.3.png)
 ## :pushpin: Reto 3. Agrupamientos.
