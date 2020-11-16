@@ -14,3 +14,7 @@
 ![imagen](imagenes/Reto3.1.1.png)
 ![imagen](imagenes/Reto3.1.2.png)
 ## :pushpin: Reto 3. Agrupamientos.
+![imagen](imagenes/Reto3.png)
+![imagen](imagenes/Reto3.1.png)
+![imagen](imagenes/Reto3.2.png)
+![imagen](imagenes/Reto3.3.png)
