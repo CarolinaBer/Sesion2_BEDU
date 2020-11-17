@@ -1,5 +1,5 @@
 # Sesión 2_BEDU: Agrupaciones y subconsultas. 
-En esta sesión se realizaron los siguientes retos utilizando la base de datos ´tienda´ :
+En esta sesión se realizaron los siguientes retos utilizando la base de datos `tienda` :
 ## :pushpin: Reto 1. Búsqueda de patrones mediante LIKE. 
 ![imagen](imagenes/Reto1.1.png)
 ![imagen](imagenes/Reto1.2.png)
