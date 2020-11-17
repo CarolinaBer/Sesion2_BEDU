@@ -1,6 +1,5 @@
 # Sesión 2_BEDU: Agrupaciones y subconsultas. 
-<div style="text-align: justify;">
-
+En esta sesión se realizaron los siguientes retos:
 ## :pushpin: Reto 1. Búsqueda de patrones mediante LIKE. 
 ![imagen](imagenes/Reto1.1.png)
 ![imagen](imagenes/Reto1.2.png)
